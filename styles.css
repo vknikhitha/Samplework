@@ -1,0 +1,20 @@
+body{
+	background-color:black;
+}
+.day {
+	text-align: center;
+	color:white;
+}
+.datenTime {
+	background-color: green;
+}
+.date {
+	float:right;
+	padding-right: 15px;
+}
+.centerText {
+	text-align: center;
+}
+.textCenter{
+	color:floralwhite;
+}
